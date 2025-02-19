@@ -6,6 +6,13 @@ body
     background-color:antiquewhite;
     color: black;
 }
+header
+{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
 
 /* Configurar foto de perfil */
 .foto-perfil
