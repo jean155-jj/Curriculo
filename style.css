@@ -1,0 +1,18 @@
+body
+{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    background-color:antiquewhite;
+    color: black;
+}
+
+/* Configurar foto de perfil */
+.foto-perfil
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 3px solid black;
+
+}
